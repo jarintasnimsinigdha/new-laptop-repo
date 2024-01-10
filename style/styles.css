@@ -1,0 +1,41 @@
+/*font*/
+body {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Merriweather', serif;
+}
+
+/*new-year-celebration*/
+.new-year {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 15px;
+    font-weight: 400;
+    padding-top: 220px;
+    padding-bottom: 0px;
+}
+
+.Celebration {
+    color: #FFF;
+    text-align: center;
+    justify-content: space-around;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    margin-top: 0px;
+}
+
+
+.new-year-celebration {
+
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(../resources/Banner\ Image.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    justify-content: center;
+    width: 1280px;
+    height: 550px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 80px;
+}
