@@ -363,29 +363,104 @@ body {
 }
 
 
-#mailbox{
+#mailbox {
     background-color: #FFF;
     border: #FFF;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
-    
+
 }
+
 .Subscribe-button {
     border-radius: 0px 50px 50px 0px;
 
 }
 
 
-.orange{
+.orange {
     border-radius: 0px 50px 50px 0px;
     background: #F00;
-    border:white ;
+    border: white;
 }
+
 .button-text {
     color: #FFF;
     text-align: center;
     font-family: Inter;
     font-size: 10px;
     font-weight: 600;
-    
+
+}
+
+/*footer*/
+.contract {
+    display: flex;
+    margin-right: 95px;
+}
+
+.footer {
+    background-color: #070211;
+}
+
+.number {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 30px;
+}
+
+.phone-icon {
+    margin-right: 20px;
+    margin-top: 55px;
+}
+
+.call {
+
+    margin-right: 5px;
+
+}
+
+.web {
+    margin-top: 25px;
+}
+
+.first-part {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Building {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 30px;
+    margin-left: 95px;
+}
+
+.icon {
+
+    margin-left: 650px;
+    margin-right: 550px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+.last {
+    display: flex;
+    justify-content: space-between;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-left: 95px;
+    margin-right: 95px;
+
+}
+.line{
+    background-color: rgb(33, 33, 33);
+    size: 75%;
+    height: 1px;
 }
