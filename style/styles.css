@@ -268,3 +268,44 @@ body {
     background-position: bottom;
     background-size: auto;
 }
+/*portfolio*/
+.gift {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.Our-Awesome-Portfolio {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.Our-Awesome-Portfolio-text {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 2px;
+}
+.portfolio-text{
+    margin-left: 95px;
+}
+.pic1{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+.pic2{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+.picture{
+    justify-content: space-between;
+    margin-left: 95px;
+    margin-right: 95px;
+    margin-bottom: 60px;
+}
