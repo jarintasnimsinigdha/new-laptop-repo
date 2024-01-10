@@ -107,19 +107,22 @@ body {
 }
 
 .group70 {
-    margin-left: 80px;
-    margin-right: 200px;
+    
+    margin-right: 1300px; ;
     margin-top: 50px;
 }
 
 .welcome-party {
     display: flex;
     justify-content: space-between;
-    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url(../resources/Vectorrr.png);
+    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(../resources/Vectorrr.png);
     background-repeat: no-repeat;
     background-position: center;
-    margin: auto;
+    width: 1320px;
+    margin-left: auto;
+    margin-right: auto;
     margin-bottom: 60px;
+    
 }
 
 /*place*/
@@ -459,7 +462,8 @@ body {
     margin-right: 95px;
 
 }
-.line{
+
+.line {
     background-color: rgb(33, 33, 33);
     size: 75%;
     height: 1px;
