@@ -39,3 +39,36 @@ body {
     margin-right: auto;
     margin-bottom: 80px;
 }
+
+/*sale styles*/
+.off {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+}
+
+.deals {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    padding-bottom: 0px;
+}
+
+.all {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.new-year-photo {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    align-items: center;
+}
