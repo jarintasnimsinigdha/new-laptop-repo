@@ -245,3 +245,26 @@ body {
     font-weight: 500;
 
 }
+/*gift-box*/
+ 
+.fifty{
+    margin-top: 80px;
+    margin-right: 200px;
+}
+.discount50{
+    background-image: url(../resources/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-right: 400px;
+    margin-left: 109px;
+    margin-bottom: 222px;
+
+}
+.full-gift-box{
+    display: flex;
+    justify-content: space-between;
+    background-image: url(../resources/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: auto;
+}
