@@ -181,20 +181,20 @@ body {
 }
 
 
- /*.Ellipse{
+/*.Ellipse{
     border: 15px solid #F00;
     border-radius: 50%;
     width: 463px;
     height: 463px;
 }*/
 
-.Ellipse{
+.Ellipse {
     border: 15px solid #F00;
     border-radius: 50%;
     padding: 20px;
     width: 463px;
     height: 463px;
-    
+
 }
 
 
@@ -217,4 +217,31 @@ body {
     font-family: Inter;
     font-size: 48px;
     font-weight: 700;
+}
+
+/*holliday-text*/
+.FUNCTIONAL {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 60px;
+}
+
+.Holidays-title {
+    color: #070211;
+    font-family: Merriweather;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    margin-top: 10px;
+}
+.holliday-descri{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+
 }
