@@ -322,10 +322,11 @@ body {
 
 /*newsletter*/
 .Newsletter-icon {
-    
+
     margin-left: 585px;
     margin-right: 585px;
     justify-content: center;
+    margin-top: 50px;
 }
 
 .Newsletter {
@@ -343,6 +344,7 @@ body {
     font-size: 20px;
     font-weight: 400;
 }
+
 /*subscribe*/
 
 .sub {
@@ -352,16 +354,38 @@ body {
     margin-right: 95px;
 
 }
-.Subscribe-box{
+
+.Subscribe-box {
     display: flex;
     justify-content: center;
-}
-.box{
-    background-color: #FFF;
-    border-top-right-radius: 50px;
+    margin-bottom: 80px;
+    padding-bottom: 80px;
 }
 
-.Subscribe-button{
+
+#mailbox{
+    background-color: #FFF;
+    border: #FFF;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    
+}
+.Subscribe-button {
+    border-radius: 0px 50px 50px 0px;
+
+}
+
+
+.orange{
     border-radius: 0px 50px 50px 0px;
     background: #F00;
+    border:white ;
+}
+.button-text {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 10px;
+    font-weight: 600;
+    
 }
